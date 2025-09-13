@@ -1,0 +1,5 @@
+{
+  "name": "Haircut Tracker",
+  "description": "An iOS-style web application to track your haircuts, see the time since your last cut, and manage your haircut history.",
+  "requestFramePermissions": []
+}
